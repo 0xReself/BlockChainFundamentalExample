@@ -1,4 +1,2 @@
-# BlockChainFundamentalExample
-This is a Example of the Fundamental of a Blockchain
-
-nothing Special
+# Blockchain
+It feals more like a Linked List, nothing Special :)
